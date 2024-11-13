@@ -17,7 +17,7 @@ No Brainer is a Flask-based web application designed for brain tumor detection u
 The No Brainer model is based on a ResNet50 CNN architecture, fine-tuned through transfer learning to specialize in brain MRI analysis. This model was trained on a large dataset of brain MRI images to achieve high performance in identifying tumors.
 
 ## Installation
-Python 3.8+
-Docker (for containerized setup)
-Tensorflow
-Flask
+- Python
+- Docker (for containerized setup)
+- Tensorflow
+- Flask
